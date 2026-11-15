@@ -188,8 +188,3 @@ loads an image, runs all ten models on it, and reports each prediction with conf
    Conference on Computer Vision and Pattern Recognition (CVPR), 2017. — Xception.
 9. TensorFlow Contributors. TensorFlow 2.21.0 and Keras Applications documentation.
    [tensorflow.org](https://www.tensorflow.org)
-
-## License
-
-Code and write-up are the author's course project work. The dataset is licensed
-CC BY-SA 4.0 by its creator (leftin, Kaggle) — see reference 1.
