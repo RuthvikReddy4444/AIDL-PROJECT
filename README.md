@@ -1,14 +1,5 @@
 # Fruit Freshness and Spoilage Classification using Deep Learning
 
-Fresh fruit is still checked for quality mostly by eye — slow, tiring and not always
-consistent. A rotten fruit packed with good fruit can spoil the whole batch. This project
-builds an image classifier that gives the same judgement to every photo, in a fraction of
-a second: a photo goes in, and the model answers GOOD or ROTTEN.
-
-The question is deliberately simple. The project does **not** grade ripeness and does
-not identify the fruit — it answers the one question a shopkeeper, packing worker or
-person at home most often needs answered.
-
 ## Dataset
 
 **Source:** [Fruit Ripeness: Unripe, Ripe, and Rotten](https://www.kaggle.com/datasets/leftin/fruit-ripeness-unripe-ripe-and-rotten)
