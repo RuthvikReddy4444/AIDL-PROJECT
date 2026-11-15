@@ -6,11 +6,6 @@
 by leftin (Kaggle), CC BY-SA 4.0. **19,956 images** were used, in the training and test
 folders supplied with the dataset.
 
-> Naming note: on Kaggle the middle class is called **"ripe"**; the project notebook
-> calls it **"fresh"**. It is the same class.
-
-The nine original folders were grouped into two classes:
-
 | Class | Contains |
 |-------|----------|
 | **GOOD** | Fresh + unripe (apple, banana, orange) — the fruit is usable |
