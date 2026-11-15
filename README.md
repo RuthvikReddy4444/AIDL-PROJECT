@@ -1,19 +1,5 @@
 # Fruit Freshness and Spoilage Classification using Deep Learning
 
-Can a photo tell a fresh fruit from a rotten one? This project trains ten pretrained
-convolutional neural networks (CNNs) to look at a photo of an apple, banana or orange
-and answer one question: **GOOD or ROTTEN?**
-
-**Best model: MobileNetV3Large — 100% (1.0000) on accuracy, precision, recall, F1-score
-and AUC** on all 3,739 test images, with zero errors. Every one of the ten models scored
-above 99.4% test accuracy.
-
-> Course project — Artificial Intelligence and Deep Learning (24CS312PC310),
-> III Year, I Semester, B.Tech CSE, SR University.
-> Author: **Jaitaram Ruthvik Reddy (2403A510B5)** · Guide: **Dr Anurodh Kumar**
-
-## Overview
-
 Fresh fruit is still checked for quality mostly by eye — slow, tiring and not always
 consistent. A rotten fruit packed with good fruit can spoil the whole batch. This project
 builds an image classifier that gives the same judgement to every photo, in a fraction of
